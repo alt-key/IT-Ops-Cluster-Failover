@@ -1,0 +1,9 @@
+Read this:
+
+The SharePoint PowerShell icon on the desktop is set up to open as farm admin in the E:\admin\powershell folder that contains all the PowerShell scripts.
+
+To execute a script, simply type:
+
+.\script_name.ps1 
+
+and hit enter.
