@@ -1,3 +1,3 @@
-# IT-Ops-Cluster-Failover
+# SharePoint 2010 Scripts
 
-This is a simple PowerShell script to identify the active and passive SQL node. 
+This is just a collection of my SharePoint scripts that I use as farm admin to maintain the environment. 
